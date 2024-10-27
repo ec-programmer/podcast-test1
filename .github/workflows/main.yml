@@ -7,7 +7,7 @@ jobs:
         - name: Checkout repo
           uses: actions/checkout@v3
         - name: Run feed generator
-          uses: ecprogrammer/podcast-generator@main
+          uses: ec-programmer/podcast-generator@main
           
         
         
